@@ -38,7 +38,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    CMIT License
+    MIT License
 
 Copyright (c) 2025 Salman-Khan
 
